@@ -1,0 +1,1 @@
+A basic Chrome extension for bionic reading. To use it clone the repo following the instructions here https://developer.chrome.com/docs/extensions/mv3/getstarted/. Can't promise it it is bug-free as I quickly put it together. Let me know if there are any issues.
